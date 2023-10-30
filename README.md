@@ -50,6 +50,6 @@
     - Movie Title And Description
     - Movie Suggestions
       - Movie Lists X N
-- NetflixGPT
+- NetflixClone
   - Search Bar
   - Movie Suggestions
