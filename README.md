@@ -37,12 +37,12 @@
 - GPT Search Page and Search Bar
 - Multilingual Feature
 
-# Features Of Netflix GPT
+# Features Of Netflix Clone
 
 - Login / SignUp
   - Sign In /Sign Up Form
   - Redirect to Browse Page
-- Browse (After Autentication)
+- Browse (After Authentication)
   - Header
   - Main Movie
     - Trailer in bg
